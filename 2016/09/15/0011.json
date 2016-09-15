@@ -1,6 +1,6 @@
 {
     "name": "papascott",
-    "text": "<p>Testing an automatically published new post. &nbsp;This is</p>",
+    "text": "<p>Testing an automatically published new post. &nbsp;This is the end!</p>",
     "id": 11,
     "when": "2016-09-15T09:31:59.643Z",
     "payload": {
@@ -12,6 +12,6 @@
     },
     "urlJson": "http://test-blog-gh.papascott.de/2016/09/15/0011.json",
     "subs": [],
-    "whenLastUpdate": "2016-09-15T19:33:01.823Z",
-    "ctUpdates": 8
+    "whenLastUpdate": "2016-09-15T19:33:34.087Z",
+    "ctUpdates": 9
 }
