@@ -5,12 +5,13 @@
     "when": "2016-09-15T19:38:02.358Z",
     "payload": {
         "editor": "wizzy",
-        "urlRendering": "http://test-blog-gh.papascott.de/2016/09/15/0012.html",
+        "urlRendering": "http://test-blog-gh.papascott.de/2016/09/15/titlesrus.html",
         "title": "Titles-R-Us",
-        "fnameHtml": "titlesrus.html"
+        "fnameHtml": "titlesrus.html",
+        "flPublished": true
     },
     "urlJson": "http://test-blog-gh.papascott.de/2016/09/15/0012.json",
     "subs": [],
-    "whenLastUpdate": "2016-09-15T19:39:31.510Z",
-    "ctUpdates": 2
+    "whenLastUpdate": "2016-09-15T19:40:14.618Z",
+    "ctUpdates": 4
 }
