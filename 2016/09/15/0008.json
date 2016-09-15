@@ -1,17 +1,17 @@
 {
     "name": "papascott",
-    "text": "<p>Time for a new test post!&nbsp;</p>",
+    "text": "<p>Time for a new test post. Let 'er rip!</p>",
     "id": 8,
     "when": "2016-09-15T06:41:35.818Z",
     "payload": {
         "flPublished": true,
         "editor": "wizzy",
-        "urlRendering": "http://test-blog-gh.papascott.de/2016/09/15/0008.html",
+        "urlRendering": "http://test-blog-gh.papascott.de/2016/09/15/aCleverTitle.html",
         "title": "A Clever Title",
         "fnameHtml": "aCleverTitle.html"
     },
     "urlJson": "http://test-blog-gh.papascott.de/2016/09/15/0008.json",
     "subs": [],
-    "whenLastUpdate": "2016-09-15T06:41:47.278Z",
-    "ctUpdates": 2
+    "whenLastUpdate": "2016-09-15T07:29:29.639Z",
+    "ctUpdates": 4
 }
