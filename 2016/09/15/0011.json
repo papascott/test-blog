@@ -1,0 +1,11 @@
+{
+    "name": "papascott",
+    "text": "<p>Testing an automatically published new post.</p>",
+    "id": 11,
+    "when": "2016-09-15T09:31:59.643Z",
+    "payload": {
+        "flPublished": true,
+        "editor": "wizzy"
+    },
+    "urlJson": "http://test-blog-gh.papascott.de/2016/09/15/0011.json"
+}
