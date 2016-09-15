@@ -1,11 +1,17 @@
 {
     "name": "papascott",
-    "text": "<p>Testing an automatically published new post.</p>",
+    "text": "<p>Testing an automatically published new post. &nbsp;T</p>",
     "id": 11,
     "when": "2016-09-15T09:31:59.643Z",
     "payload": {
         "flPublished": true,
-        "editor": "wizzy"
+        "editor": "wizzy",
+        "urlRendering": "http://test-blog-gh.papascott.de/2016/09/15/autocat.html",
+        "title": "Autocat",
+        "fnameHtml": "autocat.html"
     },
-    "urlJson": "http://test-blog-gh.papascott.de/2016/09/15/0011.json"
+    "urlJson": "http://test-blog-gh.papascott.de/2016/09/15/0011.json",
+    "subs": [],
+    "whenLastUpdate": "2016-09-15T19:29:09.723Z",
+    "ctUpdates": 6
 }
