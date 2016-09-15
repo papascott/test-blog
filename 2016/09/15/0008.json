@@ -1,6 +1,6 @@
 {
     "name": "papascott",
-    "text": "<p>Time for a new test post! Let 'er rip!&nbsp;</p>",
+    "text": "<p>Time for a new test post! Let 'er rip! De doo doo dah.</p>",
     "id": 8,
     "when": "2016-09-15T06:41:35.818Z",
     "payload": {
@@ -12,6 +12,6 @@
     },
     "urlJson": "http://test-blog-gh.papascott.de/2016/09/15/0008.json",
     "subs": [],
-    "whenLastUpdate": "2016-09-15T08:39:05.883Z",
-    "ctUpdates": 15
+    "whenLastUpdate": "2016-09-15T08:40:53.830Z",
+    "ctUpdates": 16
 }
