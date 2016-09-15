@@ -1,17 +1,17 @@
 {
     "name": "papascott",
-    "text": "<p>Yet another post...</p>",
+    "text": "<p>Yet another post!</p>",
     "id": 9,
     "when": "2016-09-15T09:25:43.961Z",
     "payload": {
         "flPublished": true,
         "editor": "wizzy",
-        "urlRendering": "http://test-blog-gh.papascott.de/2016/09/15/0009.html",
+        "urlRendering": "http://test-blog-gh.papascott.de/2016/09/15/toodles.html",
         "title": "Toodles!",
         "fnameHtml": "toodles.html"
     },
     "urlJson": "http://test-blog-gh.papascott.de/2016/09/15/0009.json",
     "subs": [],
-    "whenLastUpdate": "2016-09-15T09:26:07.338Z",
-    "ctUpdates": 2
+    "whenLastUpdate": "2016-09-15T09:27:08.627Z",
+    "ctUpdates": 4
 }
