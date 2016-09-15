@@ -4,7 +4,13 @@
     "id": 12,
     "when": "2016-09-15T19:38:02.358Z",
     "payload": {
-        "editor": "wizzy"
+        "editor": "wizzy",
+        "urlRendering": "http://test-blog-gh.papascott.de/2016/09/15/0012.html",
+        "title": "Titles-R-Us",
+        "fnameHtml": "titlesrus.html"
     },
-    "urlJson": "http://test-blog-gh.papascott.de/2016/09/15/0012.json"
+    "urlJson": "http://test-blog-gh.papascott.de/2016/09/15/0012.json",
+    "subs": [],
+    "whenLastUpdate": "2016-09-15T19:39:31.510Z",
+    "ctUpdates": 2
 }
