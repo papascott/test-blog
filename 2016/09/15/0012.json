@@ -1,6 +1,6 @@
 {
     "name": "papascott",
-    "text": "<p>Testing again. And again.</p>",
+    "text": "<p>Testing again. And again.&nbsp;</p>",
     "id": 12,
     "when": "2016-09-15T19:38:02.358Z",
     "payload": {
@@ -12,6 +12,6 @@
     },
     "urlJson": "http://test-blog-gh.papascott.de/2016/09/15/0012.json",
     "subs": [],
-    "whenLastUpdate": "2016-09-15T19:40:56.883Z",
-    "ctUpdates": 5
+    "whenLastUpdate": "2016-09-16T11:14:06.510Z",
+    "ctUpdates": 7
 }
