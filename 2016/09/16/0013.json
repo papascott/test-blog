@@ -7,10 +7,11 @@
         "editor": "wizzy",
         "urlRendering": "http://test-blog-gh.papascott.de/2016/09/16/newPost.html",
         "title": "New Post!",
-        "fnameHtml": "newPost.html"
+        "fnameHtml": "newPost.html",
+        "flPublished": true
     },
     "urlJson": "http://test-blog-gh.papascott.de/2016/09/16/0013.json",
     "subs": [],
-    "whenLastUpdate": "2016-09-16T11:31:58.016Z",
-    "ctUpdates": 3
+    "whenLastUpdate": "2016-09-16T11:32:17.441Z",
+    "ctUpdates": 4
 }
